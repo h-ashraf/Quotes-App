@@ -17,4 +17,4 @@ To run this app locally or contribute to it, follow these steps:
 2. Navigate to the project directory:
    ``` cd daily-inspirational-quote ```
 3. Install dependencies using npm or yarn:
-   ```npm install # or yarn install ```
+   ```npm install #or yarn install ```
