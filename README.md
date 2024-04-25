@@ -13,8 +13,8 @@ This is a React Native app that generates a new inspirational quote every day us
 To run this app locally or contribute to it, follow these steps:
 
 1. Clone the repository to your local machine:
-   ``` git clone https://github.com/your-username/daily-inspirational-quote.git ```
+   ``` git clone https://github.com/h-ashraf/Quotes-App.git ```
 2. Navigate to the project directory:
-   ``` cd daily-inspirational-quote ```
+   ``` cd Quotes-App ```
 3. Install dependencies using npm or yarn:
    ```npm install #or yarn install ```
